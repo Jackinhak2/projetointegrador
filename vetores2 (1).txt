@@ -1,0 +1,52 @@
+3 public class vetor e2 (
+4º — public static void main(String[] ares) (
+5 Scanner entrada = new Scanner(System.in);
+6 nt;
+
+7
+8
+
+final int ne35; //de
+
+s float notal[] = new float(n];
+o float nota2[] = new float(n];
+
+1 float
+
+12 float
+
+3
+
+14 for(ise;icnier) (
+
+15 Systen.out.print("Nota 1 do aluno "+ (41) +”
+
+16 notal[i]=entrada -nextF1oat(
+
+17 Systen.out.prânt("Nota 2 do aluno "+ (i+1) +":
+
+18 nota2[i)=entrada.nextF1cat();
+
+19 Systen.out.print("Nota 3 do aluno “+ (del) +”:
+
+A nota3[i]=entrada.nextF1oat();
+
+n >»
+
+22 System.out.printin();
+
+23
+
+24 Decimalformat df = new DecimalFormat("e.00”);
+
+25
+
+26 for(ise;icnsiao) (
+
+27 media[i] = (notal[iJenotaz[ilenota3(]) /
+
+2a String mediaf = df.format(media[i]); //format: resultado
+o System.out.printin("A média do aluno “e(is1)+" é “+ mediaf);
+se ,
+
+2
